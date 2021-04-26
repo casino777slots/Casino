@@ -3,3 +3,4 @@ AT ; https://refpasrasw.world/L?tag=d_832835m_7669c_DE&site=832835&ad=7669&r=de/
 AU ; https://link.totalaffiliates.com/c/462546 ; 
 NZ ; https://link.totalaffiliates.com/c/462546 ;
 UA ; https://ic.aff-handler.com/c/45982?sr=1459679 ;
+US ; https://ic.aff-handler.com/c/45982?sr=1459679 ;
