@@ -1,4 +1,2 @@
-UA ; https://ic.aff-handler.com/c/45982?sr=1459679 ;
-UK ; https://ic.aff-handler.com/c/45982?sr=1459679 ;
-US ; https://ic.aff-handler.com/c/45982?sr=1459679 ;
-NZ ; https://ic.aff-handler.com/c/45982?sr=1459679 ;
+AU ; https://link.totalaffiliates.com/c/462546 ;
+NZ ; https://link.totalaffiliates.com/c/462546 ;
