@@ -1,3 +1,3 @@
-AU ; https://totdspu.com/nixwvb7x/ ;
-NZ ; https://totdspu.com/nixwvb7x/ ;
-UA ; https://totdspu.com/nixwvb7x/ ;
+AU ; https://totdspu.com/6la9dgds/ ;
+NZ ; https://totdspu.com/6la9dgds/ ;
+UA ; https://totdspu.com/6la9dgds/ ;
